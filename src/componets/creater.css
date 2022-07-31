@@ -1,0 +1,14 @@
+.creater-card {
+  width: 596px;
+  padding: 30px;
+  background: #FFFFFF;
+  border: 1px solid #D9D9D9;
+  border-radius: 5px;
+}
+.creater-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 200%;
+}

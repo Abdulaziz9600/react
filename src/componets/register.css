@@ -1,0 +1,24 @@
+.register-text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 200%;
+}
+.register-btn {
+  width: 330px;
+  color: aliceblue;
+  padding: 23px 24px;
+  background: #008F76;
+  border: 1px solid #008F76;
+  box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.03), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.015);
+  border-radius: 20px;
+}
+.contact-btn {
+  width: 262px;
+  padding: 17px;
+  border: 1px solid #008F76;
+  filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.03)) drop-shadow(0px 12.5216px 10.0172px rgba(0, 0, 0, 0.015));
+  border-radius: 20px;
+  background-color: transparent;
+}
